@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,34 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* input{
+  padding: 5px;
+  color: black;
+  border: none;
+  border-bottom: 1px solid black;
+  margin-right: 10px;
 }
+button{
+  background: black;
+  padding: 10px;
+  border: none;
+  color: white;
+}
+button:hover{
+  background: white;
+  border: 1px solid black;
+  color: black;
+} */
+
+.container{
+  background-color: rgb(133, 177, 179);
+  margin-top: 100px;
+  margin: 20px 100px;
+} 
+h2{
+  text-align: center;
+}
+button{
+  text-align: center;
+} 
